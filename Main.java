@@ -38,9 +38,6 @@ public class Main extends Application {
         greenScrollBar=new ScrollBar();
 
 
-        Image image = new Image(getClass().getResourceAsStream("/images/face-look-down.jpg"));
-
-
         redLabel.setLayoutX(80);
         redLabel.setLayoutY(50);
         redLabel.setFont(font);
